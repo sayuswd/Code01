@@ -1,0 +1,172 @@
+.main {
+  width: 100%;
+  background-color:antiquewhite; 
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.s_20color {
+  overflow: hidden;
+  margin-top: -20px;
+  width: 100%;
+  height: 200px;
+  background-color: #8d90919a;
+  color: antiquewhite;
+  text-align: center;
+  border-radius: 40px;
+}
+
+.s_20color h1 {
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 60px;
+  font-size: 30px;
+}
+
+.s_20color p {
+  text-align: center;
+  font-size: 25px;
+}
+
+#list {
+  height: 600px;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 10px;
+  color: antiquewhite;
+  border-radius: 20px;
+}
+
+#list button {
+  text-align: center;
+  margin: 10px;
+  color: #8d90919a;
+  border-radius: 20px;
+}
+
+#list button:hover{
+  opacity: 0.65;
+}
+
+.c_bbe2f1 {
+  width: 100px;
+  height: 100px;
+  background-color: #bbe2f1;
+}
+
+.c_9cce8b {
+  width: 100px;
+  height: 100px;
+  background-color:#9cce8b;
+}
+
+.c_fbdac8 {
+  width: 100px;
+  height: 100px;
+  background-color: #fbdac8;
+}
+
+.c_ec6d56 {
+  width: 100px;
+  height: 100px;
+  background-color: #ec6d56;
+}
+
+.c_915da3 {
+  width: 100px;
+  height: 100px;
+  background-color: #915da3;
+}
+
+.c_ea5549 {
+  width: 100px;
+  height: 100px;
+  background-color: #ea5549;
+}
+
+.c_777e41 {
+  width: 100px;
+  height: 100px;
+  background-color:#777e41;
+}
+
+.c_f3a68c {
+  width: 100px;
+  height: 100px;
+  background-color: #f3a68c;
+}
+
+.c_009b9f {
+  width: 100px;
+  height: 100px;
+  background-color: #009b9f;
+}
+
+.c_5a3c6b {
+  width: 100px;
+  height: 100px;
+  background-color: #5a3c6b;
+}
+
+
+.c_a0d8ef {
+  width: 100px;
+  height: 100px;
+  background-color: #a0d8ef;
+}
+
+.c_00ac9a {
+  width: 100px;
+  height: 100px;
+  background-color:#00ac9a;
+}
+
+.c_e5c1cd {
+  width: 100px;
+  height: 100px;
+  background-color: #e5c1cd;
+}
+
+.c_a4a8d4 {
+  width: 100px;
+  height: 100px;
+  background-color: #a4a8d4;
+}
+
+.c_9f166a {
+  width: 100px;
+  height: 100px;
+  background-color: #9f166a;
+}
+
+
+.c_4e454a {
+  width: 100px;
+  height: 100px;
+  background-color: #4e454a;
+}
+
+.c_009854 {
+  width: 100px;
+  height: 100px;
+  background-color:#009854;
+}
+
+.c_e4007f {
+  width: 100px;
+  height: 100px;
+  background-color: #e4007f;
+}
+
+.c_b2cbe4 {
+  width: 100px;
+  height: 100px;
+  background-color: #b2cbe4;
+}
+
+.c_fff352 {
+  width: 100px;
+  height: 100px;
+  background-color: #fff352;
+}
