@@ -13,7 +13,7 @@ function onChangeValue() {
   hideAllImages();
 
   //input（チェックボタン）のデータをすべて取ってくる。
-  const sec_checkboxes = document.querySelectorAll('.main_section input');
+  const sec_checkboxes = document.querySelectorAll('.section input');
   //imagesのデータをすべて取ってくる。
   const all_images = document.querySelectorAll('.images input');
 

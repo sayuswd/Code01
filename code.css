@@ -1,30 +1,26 @@
-.main {
+/*全体への装飾*/
+.all_section {
   width: 100%;
-  background-color: antiquewhite;
+  background-color: white;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
 }
-
+/*タイトル画面の装飾*/
 .color {
   overflow: hidden;
   margin-top: -20px;
-  width: 100%;
   height: 200px;
   background-color: #3c3d3d9a;
   color: antiquewhite;
-  text-align: center;
   border-radius: 40px;
 }
-
+/*タイトル画面の文字への装飾*/
 .color p {
   margin-top: 80px;
-  text-align: center;
   font-size: 25px;
 }
-
+/*チェック機能部分の装飾*/
 .list {
-  text-align: center;
   width: 100%;
   margin-top: 100px;
   font-size: 20px;
@@ -32,55 +28,30 @@
   border-radius: 20px;
   background-color: #9cce8b;
 }
-
+/*チェックの装飾*/
 .list input {
-  text-align: center;
   margin: 10px;
   color: #3c3d3d9a;
   border-radius: 20px;
 }
 
-
-#main_section {
-  text-align: center;
-  width: 100px;
-  height: 100px;
-  margin-top: 50px;
-  background-color: #9cce8b;
-}
-
-.images {
-  width: 100%;
-  height: 300px;
-  text-align: center;
-}
-
-.one {
-  text-align: center;
+/*ボタン機能の装飾*/
+.images input {
   width: 100px;
   height: 100px;
   margin-top: 100px;
   margin-left: 10px;
   margin-right: 10px;
+}
+/*赤ボタンの装飾*/
+.one1 {
   background-color: #fa1919;
 }
-
-.two {
-  text-align: center;
-  width: 100px;
-  height: 100px;
-  margin-top: 100px;
-  margin-left: 10px;
-  margin-right: 10px;
+/*青ボタンの装飾*/
+.one2 {
   background-color: #1900ff;
 }
-
-.three {
-  text-align: center;
-  width: 100px;
-  height: 100px;
-  margin-top: 100px;
-  margin-left: 10px;
-  margin-right: 10px;
+/*黄色ボタンの装飾*/
+.one3 {
   background-color: #fbff04;
 }
